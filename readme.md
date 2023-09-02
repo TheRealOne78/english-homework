@@ -13,5 +13,8 @@
   <li>PC's with linux UwUntu. They are big impact for weebs like me. I like anime... :|</li>
   <li>I don't travel. It's a money consumer. I don't need to travel to find my true me. I know me because I am me.</li>
 </ol>
-<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fblog.udemy.com%2Fwp-content%2Fuploads%2F2014%2F06%2Fbigstock-English-Wording-And-Books-58790219.jpg&f=1&nofb=1">
-<img src="http://therealone78.ddns.net/git-hw.png">
+<img src="./assets/bigstock-English-Wording-And-Books-58790219.jpg">
+
+_Image taken from https://blog.udemy.com/wp-content/uploads/2014/06/bigstock-English-Wording-And-Books-58790219.jpg_
+
+<img src="./assets/git-hw.png">
